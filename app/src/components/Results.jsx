@@ -1,11 +1,9 @@
 import React from 'react'
 
-function Results() {
-    return (
-        <div>
-            
-        </div>
+export const Results = () => {
+    return(
+        <>
+            Resukt
+        </>
     )
 }
-
-export default Results
